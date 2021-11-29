@@ -1,3 +1,5 @@
+**This is a copy of https://github.com/bonlime/keras-deeplab-v3-plus with some minor tweaks**
+
 # Keras implementation of Deeplabv3+  
 **This repo is not longer maintained. I won't respond to issues but will merge PR**  
 DeepLab is a state-of-art deep learning model for semantic image segmentation.  
